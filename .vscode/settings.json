@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "Consolas, monospace",
+    "totvsLanguageServer.welcomePage": false,
+    "totvsLanguageServer.askEncodingChange": true
+}
